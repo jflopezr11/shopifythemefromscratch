@@ -1,4 +1,4 @@
 # shopifythemefromscratch
 Creating a shopify theme from scratch. 
 
-<iframe src="https://drive.google.com/file/d/1uG1WdiGH-seOaYbaPxpWNb8dlK2JfmcL/preview" width="640" height="480"></iframe>
+<a href='https://giphy.com/gifs/UqMf7fViE0syDaFfET/html5'><img src='https://giphy.com/gifs/UqMf7fViE0syDaFfET/html5'/></a>
